@@ -22,7 +22,7 @@ Marketing efforts lacked quantifiable insight into which messaging, layout, and 
 | Variant | CTR (%) | Sample Size | Statistical Sig |
 |---------|---------|-------------|-----------------|
 | A (Control) | 11.2 | 10,000 | -- |
-| B (Test) | 12.0 | 10,100 | ✅ p < 0.01 |
+| B (Test) | 12.0 | 10,100 | p < 0.01 |
 
 **Lift:** +7.1%
 
